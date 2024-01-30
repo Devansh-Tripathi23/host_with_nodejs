@@ -1,0 +1,43 @@
+.mainbox{
+    border-radius: 10px;
+}
+.block{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    text-align: center;
+    color: black;
+}
+h3{
+    color: black;
+}
+img{
+    width:100% ;
+    height: 450px;
+}
+input{
+    border-radius: 10px;
+    width: 100%;
+    padding: 10px;
+}
+button{
+    width: 100%;
+    background-color: rgb(202, 142, 64);
+    border: 1px solid black;
+    border-radius: 50px;
+    padding: 10px;
+    border-radius: 10px;
+
+
+}
+.userinput{
+    position: relative;
+}
+.tickimage{
+    position: absolute;
+    right:150px;
+    margin-top: -40px;
+    margin-right: 10px;
+    /* display: none; */
+}
